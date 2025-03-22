@@ -1,4 +1,4 @@
-e# edap30-lab0
+# edap30-lab0
 A micro lab for the first course occasion in edap30.
 
 Make sure that you have a working python environment ready with the following packages installed:
