@@ -6,14 +6,6 @@ This is a small initial lab to make sure that the setup works and to refresh som
 Make sure that you have a working python environment ready with the following packages installed.
 Installation instructions are listed in the assignment on Canvas.  
 
-### Required packages
-- numpy
-- torch
-- sklearn
-- matplotlib
-- seaborn
-- pandas
-
 Once that is done, go through the provided notebook, write the requested code and be ready to answer the questions.
 
 - No peer review is required for this lab
