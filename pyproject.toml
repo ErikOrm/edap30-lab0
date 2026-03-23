@@ -14,6 +14,7 @@ dependencies = [
     "pandas",
     "seaborn",
     "jupyterlab",
+    "jupyter",
     "tqdm",
     "torch",
     "torchvision",
